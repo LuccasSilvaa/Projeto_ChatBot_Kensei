@@ -1,0 +1,15 @@
+# Segurança (Chaves de API) - NUNCA REMOVA ISSO
+.env
+
+# Ambientes Virtuais Python
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
